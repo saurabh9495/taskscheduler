@@ -1,7 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Live project is available at http://34.69.26.171:5000/ .
-
+Live project is available at http://saurabh9495.org:5000/ 
 ## Start the Project
 
 First install npm to the platform , then run 
